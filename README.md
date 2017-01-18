@@ -1,1 +1,1 @@
-# expath-time-spec
+# EXPath Time Specification, see http://kuberam.ro/specs/expath/time/time.html.
